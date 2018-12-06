@@ -14,7 +14,6 @@ timezone:Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yang1023.top
-root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
