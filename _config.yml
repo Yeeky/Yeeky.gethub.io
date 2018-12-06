@@ -18,7 +18,7 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 #要修改主题，就修改theme
-theme: hexo-theme-next    
+theme: Hacker   
  
  #GitHub仓库地址
 deploy:
